@@ -49,3 +49,4 @@ select = [
     "RUF100" # enforce that your noqa directives are "valid"
 ]
 target-version = "py310"
+include = ["*.py", "*.pyi", "**/pyproject.toml", "*.ipynb"]
