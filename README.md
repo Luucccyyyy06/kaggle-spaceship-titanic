@@ -8,8 +8,10 @@
 [![Checked with mypy](http://www.mypy-lang.org/static/mypy_badge.svg)](http://mypy-lang.org/)
 [![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/BrandwatchLtd/python_template)
 
-# Python Project Template
+# Spaceship Titanic Kaggle Competition
+[Link to the Kaggle competition](https://www.kaggle.com/competitions/spaceship-titanic/overview )
 
+## Info about the Python Template
 This repository provides a starter skeleton of a python project that adopts some basic best practices
 * Use `poetry` for dependency resolution, virtualenv management, packaging
 * `src` package layout
